@@ -3,7 +3,7 @@ Game created using the technologies:
 
 JavaScript(OOP), HTML, CSS
 
-WINNING OPTIONS 🏆
+WINNING OPTIONS 🏆:
 
 👉 three windows the same
 
