@@ -1,7 +1,8 @@
-# Slot-Machine
-Game created using the technologies:
+# Slot Machine
 
-JavaScript(OOP), HTML, CSS
+## General info
+
+The motivation for creating the game was to repeat the knowledge of Object Oriented Programming.
 
 WINNING OPTIONS 🏆:
 
@@ -9,4 +10,13 @@ WINNING OPTIONS 🏆:
 
 👉 three different windows
 
-Link --> https://magdalenaes.github.io/Slot-Machine/
+## Technologies
+HTML
+
+CSS
+
+JavaScript (OOP)
+
+## Demo
+
+Link 👉 https://magdalenaes.github.io/Slot-Machine/
